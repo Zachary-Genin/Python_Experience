@@ -1,0 +1,6 @@
+Variable = None
+a = None
+
+
+Variable = 1
+print(a)
